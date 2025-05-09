@@ -1,4 +1,5 @@
 ## Struktur Direktori
+```bash
 ├── train.py
 ├── custom_trainer.py
 ├── utils.py
@@ -11,6 +12,7 @@
 │ ├── train_data.json
 │ └── test_data.json
 └── requirements.txt
+```
 
 ## deskripsi
 ### 1. `train.py`
